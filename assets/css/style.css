@@ -1,0 +1,25 @@
+.font-text{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.font-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.bg-hero{
+    background:linear-gradient(to top right,#DCF2F1,#7FC7D9,#365486);
+    height: 1000px;
+}
+.bg-box{
+    background-color: #3468C0;
+}
+.btnStyle{
+    background-color: #0F1035;
+    border: 1px solid #0F1035;
+    color: #fff;
+    border-radius: 5px;
+}
+.btnStyle:hover{
+    background-color: #141654;
+    color: #fff;
+}
